@@ -32,9 +32,9 @@ This course contains lots of challenges for Kubernetes, each challenge is a smal
 |      19 | 🎯 Kubernetes Describe Command (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23720'>Start Challenge</a>  |
 |      20 | 🎯 Kubernetes Set Command (Challenge)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/51786'>Start Challenge</a>  |
 |      21 | 🎯 Kubernetes Display Resource Usage (Challenge)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23747'>Start Challenge</a>  |
-|      22 | 🎯 ContainerProbe in Kubernetes                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18858'>Start Challenge</a>  |
+|      22 | 🎯 ContainerProbe in Kubernetes (Challenge)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18858'>Start Challenge</a>  |
 |      23 | 🎯 Configuring Apps with Secrets (Challenge)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16234'>Start Challenge</a>  |
-|      24 | 🎯 Isolating Workloads with Namespaces                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18458'>Start Challenge</a>  |
+|      24 | 🎯 Isolating Workloads with Namespaces (Challenge)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18458'>Start Challenge</a>  |
 |      25 | 🎯 Kubernetes Networking with Pods and Services          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/55177'>Start Challenge</a>  |
 |      26 | 🎯 Traefik Ingress Controller                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/266718'>Start Challenge</a> |
 |      27 | 🎯 Kubernetes LimitRange Resource Management (Challen... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29344'>Start Challenge</a>  |
@@ -43,7 +43,7 @@ This course contains lots of challenges for Kubernetes, each challenge is a smal
 |      30 | 🎯 Kubernetes Annotate Command (Challenge)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29343'>Start Challenge</a>  |
 |      31 | 🎯 Kubernetes Exec Command (Challenge)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23728'>Start Challenge</a>  |
 |      32 | 🎯 Kubernetes Advance Scheduler                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7772'>Start Challenge</a>   |
-|      33 | 🎯 Networking Pods With Services                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266382'>Start Challenge</a> |
+|      33 | 🎯 Kubernetes Networking Pods With Services              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/266382'>Start Challenge</a> |
 |      34 | 🎯 Storing Data with PersistentVolumes                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18456'>Start Challenge</a>  |
 |      35 | 🎯 Kubernetes Cordon and Uncordon Command (Challenge)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67176'>Start Challenge</a>  |
 |      36 | 🎯 Manage Kubernetes Deployment                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16236'>Start Challenge</a>  |
