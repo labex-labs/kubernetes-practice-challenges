@@ -49,7 +49,7 @@ This course contains lots of challenges for Kubernetes, each challenge is a smal
 |      36 | 🎯 Manage Kubernetes Deployment                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16236'>Start Challenge</a>  |
 |      37 | 🎯 Kubernetes Logs Command (Challenge)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23726'>Start Challenge</a>  |
 |      38 | 🎯 Taints and Tolerations (Challenge)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/21415'>Start Challenge</a>  |
-|      39 | 🎯 Kubernetes Port-Forward Command                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29063'>Start Challenge</a>  |
+|      39 | 🎯 Kubernetes Port-Forward Command Challenge             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29063'>Start Challenge</a>  |
 |      40 | 🎯 Kubernetes Deployment Management                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7773'>Start Challenge</a>   |
 |      41 | 🎯 Examine Nodes with Kubectl (Challenge)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18861'>Start Challenge</a>  |
 
